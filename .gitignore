@@ -1,0 +1,26 @@
+# Data: never commit (huge, downloadable, not code)
+ref/
+reads/
+truth/
+resources/
+results/happy/*.bam
+*.fasta
+*.fa
+*.fna
+*.fastq.gz
+*.bam
+*.bai
+*.vcf.gz
+*.vcf
+*.tbi
+*.idx
+*.table
+*.gz
+
+# Nextflow clutter
+work/
+.nextflow/
+.nextflow.log*
+
+# OS noise
+.DS_Store
