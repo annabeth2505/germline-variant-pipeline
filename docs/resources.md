@@ -1,4 +1,4 @@
-# Resources & Provenance
+# Resources 
 
 ## About this document
 This pipeline implements a standard, published best-practices workflow using
