@@ -1,0 +1,22 @@
+POS	GENE	CONSEQUENCE	gnomAD_AF	CLINVAR
+719464		splice_donor_variant&non_coding_transcript_variant	absent	not_in_clinvar
+4182414	SMOX	missense_variant	=4.7575e-05	Uncertain_significance
+4248728	ADRA1D	missense_variant	=0.00863807	not_in_clinvar
+6349434		splice_donor_variant&non_coding_transcript_variant	absent	not_in_clinvar
+13850237	SEL1L2	missense_variant	=0.000305115	not_in_clinvar
+16378827	KIF16B	missense_variant	=0.00140648	not_in_clinvar
+25079507	VSX1	missense_variant	=0.00335984	Benign/Likely_benign
+29114913		splice_donor_variant&non_coding_transcript_variant	absent	not_in_clinvar
+30912557		splice_donor_variant&non_coding_transcript_variant	absent	not_in_clinvar
+31482394	REM1	missense_variant	=0.000292092	not_in_clinvar
+32234536	POFUT1	missense_variant	=0.000848301	Benign
+33946602		splice_acceptor_variant&non_coding_transcript_variant	absent	not_in_clinvar
+35547502	ERGIC3	missense_variant	=0.000812094	not_in_clinvar
+36432094	DLGAP4	missense_variant	=0.000210009	Uncertain_significance
+38766325	ACTR5	missense_variant	=0.00076965	not_in_clinvar
+44051315	TOX2	missense_variant	=0.0061201	Likely_benign
+57616295	ZBP1	missense_variant	=0.00141598	not_in_clinvar
+62413461	RBBP8NL	missense_variant	=7.55484e-07	not_in_clinvar
+62416222	RBBP8NL	missense_variant	=0.000273325	not_in_clinvar
+62891000	DIDO1	missense_variant	=0.00724968	not_in_clinvar
+63547130	SRMS	missense_variant	=0.0010634	not_in_clinvar
